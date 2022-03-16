@@ -16,6 +16,27 @@ Cet exercice a pour objectifs :
         * Sublime text (http://www.sublimetext.com/ )
 * Nous utiliserons VisualStudioCode et les extensions : Python, Python for VSCode et Visual Studio IntelliCode
 
+### Installation sur les VM de formation
+
+ (mot de passe demandé le même que pour se connecter sur la VM)
+
+* Installation de firefox : 
+    * Ouvrir l'application Terminal 
+```
+sudo apt update -y 
+
+sudo apt install -y firefox
+```
+
+* Installation de Visual Studio Code 
+    * Ouvrir firefox et aller sur https://code.visualstudio.com/download cliquer sur le bouton .deb
+    * Ouvrir le terminal de nouveau 
+```
+cd Downloads
+
+sudo dpkg -i code_1.65.2-1646927742_amd64.deb  
+```
+    * Dans les applications de la Vm vous avez maintenant accès à visual Studio Code 
 
 ## Premier pas
 
