@@ -26,5 +26,5 @@ print(type(captial_augmente))
 print(type(chaine_captial_augmente))
 
 
-message = "Au bout de deux ans le capital sera de " + captial_augmente
+message = "Au bout de deux ans le capital sera de " + chaine_captial_augmente
 print(message)
