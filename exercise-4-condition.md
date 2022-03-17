@@ -25,7 +25,7 @@
     * La séquence d’instructions permet d'afficher un message
     ```python
     n=10
-    print("C'est dans % dans je m'en irai j'entends le loup le renard chanter" %n)
+    print("C'est dans % ans je m'en irai j'entends le loup le renard chanter" %n)
     ```
     * On souhaite à l'aide d'une boucle afficher la même instruction jusqu'à ce que la valeur de la variable n soit à 0.
     * Attention à adapter la phrase (singulier / pluriel) sur la valeur 1   
