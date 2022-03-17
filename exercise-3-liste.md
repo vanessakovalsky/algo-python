@@ -23,7 +23,7 @@ week-end d’autre part ? Utilisez pour cela l’indiçage.
 
 ## [Programme rentabilité] Liste des valeurs de notre calcul de rentabilité
 
-* Pour continuer, ajouter pour chaque année la nouvelle valeur avec l'augmentation de notre liste dans une liste.
+* Pour continuer, ajouter pour chaque année la nouvelle valeur avec l'augmentation de notre capital dans une liste.
 * Afficher les éléments suivants de la liste 
     * la première valeur
     * l'avant dernière valeur
