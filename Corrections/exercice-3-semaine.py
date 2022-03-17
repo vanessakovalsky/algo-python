@@ -10,7 +10,7 @@ print(jours_semaine[5:7])
 # Cherchez un autre moyen pour arriver au même résultat (en utilisant un autre indiçage).
 
 print(jours_semaine[-7:-2])
-print(jours_semaine[-2:7])
+print(jours_semaine[-2:7])  
 
 # Trouvez deux manières pour accéder au dernier jour de la semaine.
 print(jours_semaine[6])
