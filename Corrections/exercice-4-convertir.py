@@ -12,4 +12,4 @@ else :
     elif devise == '$' :
         conversion = float(montant) * taux
 
-    print(conversion)
+    print(conversion)   
